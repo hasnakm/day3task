@@ -1,0 +1,67 @@
+
+
+.imge{
+    height: 500px;
+}
+
+.cl{
+    color: white;
+    text-decoration: none;
+}
+
+.ck{
+    color: white;
+}
+
+.bg{
+    background-color: rgb(93, 6, 117);
+}
+
+
+
+input[type=password], input[type=text], input[type=email], input[type=number], input[type=date], input[type=submt]{
+    border-radius: 20px; color: gray;
+}
+
+
+
+        .error{
+          color: red;
+          margin-left: 5%;
+          font-size: small;
+          font-family: Arial, Helvetica, sans-serif;
+        }
+    
+
+
+select{
+    border-radius: 20px; color: gray;
+    width: 77%;
+}
+
+textarea{
+    border-radius: 20px; color: gray;
+}
+
+input.cls{
+    width: 150px;
+    border-radius: 10px;
+}
+
+.btn{
+    width: 50%;
+    border-radius: 10px;
+    margin-left: 20%;
+}
+
+
+.inp {
+    text-transform: capitalize;
+}
+
+
+.toggle-hide-show {
+    
+    position: absolute;
+    width: auto;
+}
